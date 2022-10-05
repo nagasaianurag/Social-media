@@ -5,6 +5,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
+  /*background-color: white;*/
   background-color: #2c3a47;
 }
 
@@ -47,3 +48,11 @@ body{
   border-bottom: 5px solid;
   transform: skewY(-20deg);
 }
+
+/*.fab {
+    font-size:30px;
+    background: #d6249f;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}*/
