@@ -5,14 +5,13 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  /*background-color: white;*/
   background-color: #2c3a47;
 }
 
 .sm a{
   display: inline-block;
   font-size: 70px;
-  width: 125px;
+  width: 150px;
   height: 150px;
   line-height: 100px;
   text-align: center;
@@ -55,4 +54,8 @@ body{
     background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+<<<<<<< HEAD
 }*/
+=======
+}*/
+>>>>>>> 6d2f633c91603069333823abc4f5c29b68afc7ea
